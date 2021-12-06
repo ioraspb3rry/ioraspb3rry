@@ -2,8 +2,9 @@
 
 <br>
 
-> To live is to persue an endless torment of pain upon ones mind; but <br>
-> in endlessness, you are eternaly embraced by the limitless of death.
+> "To live is to persue an endless torment of pain upon ones mind; but <br>
+> in endlessness, you are eternaly embraced by the limitless of death." <br>
+> \- Raspb3rry
 
 <br>
 
