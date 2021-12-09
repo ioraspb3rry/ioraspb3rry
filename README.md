@@ -2,9 +2,8 @@
 
 <br>
 
-> "To live is to persue an endless torment of pain upon ones mind; but <br>
-> in endlessness, you are eternaly embraced by the limitless of death." <br>
-> \- Raspb3rry
+> " To live is to persue an endless torment of pain upon ones mind; <br>
+> but in endlessness, you are eternaly embraced by the limitless of death. " <br>
 
 <br>
 
@@ -14,4 +13,7 @@
 
 <br>
 
-- [ ] My website can be found [here](http://www.raspb3rry.io/).
+- [x] My website can be found [here](http://www.raspb3rry.io/). [^WIP]
+
+[^WIP]:
+    [ W.I.P. ] - Work In Progress
